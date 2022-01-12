@@ -1,0 +1,15 @@
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\bin\Debug\net6.0\Helloworld09.exe
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\bin\Debug\net6.0\Helloworld09.deps.json
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\bin\Debug\net6.0\Helloworld09.runtimeconfig.json
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\bin\Debug\net6.0\Helloworld09.dll
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\bin\Debug\net6.0\ref\Helloworld09.dll
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\bin\Debug\net6.0\Helloworld09.pdb
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\obj\Debug\net6.0\Helloworld09.csproj.AssemblyReference.cache
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\obj\Debug\net6.0\Helloworld09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\obj\Debug\net6.0\Helloworld09.AssemblyInfoInputs.cache
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\obj\Debug\net6.0\Helloworld09.AssemblyInfo.cs
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\obj\Debug\net6.0\Helloworld09.csproj.CoreCompileInputs.cache
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\obj\Debug\net6.0\Helloworld09.dll
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\obj\Debug\net6.0\ref\Helloworld09.dll
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\obj\Debug\net6.0\Helloworld09.pdb
+C:\Users\rajar\source\repos\Helloworld09\Helloworld09\obj\Debug\net6.0\Helloworld09.genruntimeconfig.cache
