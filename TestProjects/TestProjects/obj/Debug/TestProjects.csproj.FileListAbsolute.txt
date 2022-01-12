@@ -1,0 +1,8 @@
+C:\Users\rajar\source\repos\Fellowship\TestProjects\TestProjects\bin\Debug\TestProjects.exe.config
+C:\Users\rajar\source\repos\Fellowship\TestProjects\TestProjects\bin\Debug\TestProjects.exe
+C:\Users\rajar\source\repos\Fellowship\TestProjects\TestProjects\bin\Debug\TestProjects.pdb
+C:\Users\rajar\source\repos\Fellowship\TestProjects\TestProjects\obj\Debug\TestProjects.csproj.AssemblyReference.cache
+C:\Users\rajar\source\repos\Fellowship\TestProjects\TestProjects\obj\Debug\TestProjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\source\repos\Fellowship\TestProjects\TestProjects\obj\Debug\TestProjects.csproj.CoreCompileInputs.cache
+C:\Users\rajar\source\repos\Fellowship\TestProjects\TestProjects\obj\Debug\TestProjects.exe
+C:\Users\rajar\source\repos\Fellowship\TestProjects\TestProjects\obj\Debug\TestProjects.pdb
