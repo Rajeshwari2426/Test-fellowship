@@ -11,6 +11,7 @@ namespace TestProjects
         static void Main(string[] args)
         {
             Console.WriteLine("WELCOME");
+            Console.WriteLine("RPF102 Batch")
             // Console.ReadLine();
             //FibonacciSeries fibonacci = new FibonacciSeries();
             //fibonacci.FindFibonacciSeries();
