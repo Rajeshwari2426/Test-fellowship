@@ -11,10 +11,14 @@ namespace TestProjects
         static void Main(string[] args)
         {
             Console.WriteLine("WELCOME");
+            // Console.ReadLine();
+            //FibonacciSeries fibonacci = new FibonacciSeries();
+            //fibonacci.FindFibonacciSeries();
+            //Console.ReadLine();
+           // ReverseNumbers.FindreverseNumber();
             Console.ReadLine();
-            FibonacciSeries fibonacci = new FibonacciSeries();
-            fibonacci.FindFibonacciSeries();
-            Console.ReadLine();
+            PrimeNumber.prime();
+
         }
     }
 }
